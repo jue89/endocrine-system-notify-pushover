@@ -1,0 +1,17 @@
+{
+  "name": "es-notify-pushover",
+  "version": "0.0.0",
+  "description": "Endocrine System Notifications: Pushover Backend",
+  "main": "index.js",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jue89/endocrine-system-notify-pushover.git"
+  },
+  "author": "Jue <me@jue.yt>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jue89/endocrine-system-notify-pushover/issues"
+  },
+  "homepage": "https://github.com/jue89/endocrine-system-notify-pushover#readme"
+}
